@@ -7,7 +7,7 @@ Please ensure your pull request adheres to the following guidelines:
 - A link back to this list from yours, so users can discover more lists, would be appreciated.
 - Make an individual pull request for each suggestion.
 - Titles should be [capitalized](http://grammar.yourdictionary.com/capitalization/rules-for-capitalization-in-titles.html).
-- Use the following format: `[Name] by [Author] ([Link](Link to Demo)) ([Source](Link to Source))`. If it is a CodePen link or some similar format, use the following format: `([Link + Source](Link to CodePen))`.
+- Use the following format: `[Name] by [Author] ([Demo](Link to Demo)) ([Source](Link to Source))`. If it is a CodePen link or some similar format, use the following format: `([Demo + Source](Link to CodePen))`.
 - Link additions should be added to the bottom of the relevant category.
 - New categories or improvements to the existing categorization are welcome.
 - Check your spelling and grammar.
