@@ -1,2 +1,86 @@
-# awesome-spinners
-A collection of spinners used on web
+# Awesome Spinners
+
+A curated collection of spinners used on web.
+
+## Table of Contents
+
+- [CSS Only](#css-only)
+- [Single-element CSS](#single-element-css)
+- [Zero-element CSS](#zero-element-css)
+- [SVG](#svg)
+- [JS and CSS](#js-and-css)
+- [Canvas](#canvas)
+- [Build Your Own Spinner](#build-your-own-spinner)
+
+## CSS Only
+
+- Load Awesome by Daniel Cardoso ([Demo](http://github.danielcardoso.net/load-awesome/animations.html)) ([Source](https://github.com/danielcardoso/load-awesome))
+- SpinKit by Tobias Ahlin ([Demo](http://tobiasahlin.com/spinkit/)) ([Source](https://github.com/tobiasahlin/SpinKit))
+- CSS Load.net ([Demo + Source](http://cssload.net/))
+  - Spinners ([Demo + Source](http://cssload.net/en/spinners))
+  - Horizontal Bars ([Demo + Source](http://cssload.net/en/horizontal-bars))
+  - Three Dimensional ([Demo + Source](http://cssload.net/en/3d-loaders))
+  - Animated Text ([Demo + Source](http://cssload.net/en/animated-text))
+  - Misc - some are really cool! ([Demo + Source](http://cssload.net/en/miscellaneous))
+- CSS Only Loaders ([Demo](http://blog.pexels.com/css-only-loaders/))
+- Pure CSS3 Loading by 大板栗 ([Source](https://github.com/JustClear/pure-css3-loading))
+- [ArtWorx] xLoader by Anas Tawfeek ([Demo](http://anastawfeek.github.io/ArtWorx-xLoader/)) ([Source](https://github.com/AnasTawfeek/ArtWorx-xLoader))
+- Halogen (React spinner library) by Yuan Uan ([Demo](http://madscript.com/halogen/)) ([Source](https://github.com/yuanyan/halogen))
+- Loaders.css by Connor Atherton ([Demo](https://connoratherton.com/loaders)) ([Source](https://github.com/ConnorAtherton/loaders.css))
+- CSS Spinners by Oskar Gustafsson ([Demo](http://oskargustafsson.github.io/CSS-spinners)) ([Source](https://github.com/oskargustafsson/CSS-spinners)) 
+- Less Loaders by JesGraPa ([Demo + Source](http://codepen.io/JesGraPa/pen/Hyaiw))
+- CSS cubic loader by Lokesh Suthat ([Demo + Source](http://codepen.io/magnus16/pen/rbEju))
+- Wavy Loading Animations by Kyle Brumm ([Demo + Source](http://codepen.io/kjbrum/pen/BraCg))
+- Equalizes the loader by Caohim ([Demo + Source](http://codepen.io/caohim/pen/tseIj))
+- Ouroboros Spinner by Tom Genoni ([Demo](http://atomeye.com/sass-css-spinner.html)) ([Source](https://github.com/tomgenoni/ouroboros))
+
+## Single-element CSS
+
+- CSS Spinners by John Long ([Demo](http://www.css-spinners.com/)) ([Source](https://github.com/jlong/css-spinners))
+- Loaders Kit by Viduthalai Mani ([Demo](http://cssdeck.com/labs/loaderskit))
+- Single Element CSS Spinners by Luke Haas ([Demo](http://projects.lukehaas.me/css-loaders/)) ([Source](https://github.com/lukehaas/css-loaders))
+- CSS Loading Spinners by Harold Soto ([Demo & Source](http://codepen.io/bernethe/pen/dorozd))
+- Simple Spinner by Vineeth.TR ([Demo & Source](http://codepen.io/vineethtr/pen/GJpxoQ))
+- Circular CSS Spinners by zeesx ([Demo & Source](http://codepen.io/zessx/pen/RNPKKK))
+- Collection of animated loaders by Ana Tudor ([Demo & Source](http://codepen.io/thebabydino/pen/pxnld))
+- CSS Loading Spinners by Beau ([Demo & Source](http://codepen.io/Beaugust/pen/DByiE))
+- Motion Blur Loader by Alex Bergin ([Demo & Source](http://codepen.io/jonmilner/pen/hDHuo))
+
+## Zero-element CSS
+- Zero Element Loading Animations ([Demo + Source](http://madebymike.com.au/writing/zero-element-loading-animations/))
+
+## SVG
+
+- SVG-Loaders by Sam Hambert ([Demo](http://samherbert.net/svg-loaders/)) ([Source](https://github.com/SamHerbert/SVG-Loaders))
+- Tumblr Style Cog Spinners by Pasquale Vitiello ([Demo](http://pasqualevitiello.github.io/Tumblr-Style-Cog-Spinners/)) ([Source](https://github.com/pasqualevitiello/Tumblr-Style-Cog-Spinners/))
+- SVG Loader Animation by Nikhil Krishnan ([Demo + Source](http://codepen.io/nikhil8krishnan/pen/rVoXJa))
+- Animated Spinners by Ionic ([Demo + Source](http://codepen.io/ionic/pen/GgwVON))
+- SVG Preloaders by Alex ([Demo + Source](http://codepen.io/akwright/pen/kjslC))
+- Pulse Loading by GoApp ([Demo + Source](http://codepen.io/goapp/pen/kIfDC))
+- SVG Loading Icons by Aurer ([Demo + Source](http://codepen.io/aurer/pen/jEGbA))
+- Material Design Spinner ([Demo + Source](http://codepen.io/mrrocks/pen/EiplA))
+
+## JS and CSS
+
+- Loaders and Spinners by Tim Holman ([Demo](http://codepen.io/collection/HtAne/))
+- Colorful Square Spinner by Tim Holman ([Demo](http://codepen.io/tholman/pen/mqhJb))
+ 
+## Canvas
+
+- Canvas Sparkly Circle Loader by Jack Rugile ([Demo](http://codepen.io/jackrugile/pen/JAKbg))
+- Sonic.js by James Padolsey ([Demo](http://james.padolsey.com/p/Sonic/repo/demo/demo.html)) ([Source](http://james.padolsey.com/p/Sonic/repo/demo/demo.html))
+
+## Build Your Own Spinner
+
+- Loading.io ([Demo](http://loading.io/))
+- Spin Cycle - CSS-powered spinner from any inline SVG by Chris Hart ([Demo + Source](http://codepen.io/personable/pen/jPMXPv))
+
+## Other Collections
+
+- 10+ Best Pure CSS Loading Spinners For Front-end Developers by 365 Web Resources ([List](https://365webresources.com/10-best-pure-css-loading-spinners-front-end-developers/))
+
+## License
+
+[![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
+
+This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
