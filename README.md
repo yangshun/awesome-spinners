@@ -1,6 +1,8 @@
 # Awesome Spinners [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated collection of spinners used on web.
+> A curated list of spinners for the web.
+
+*Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. 
 
 ## Table of Contents
 
@@ -81,6 +83,12 @@ A curated collection of spinners used on web.
 
 - 10+ Best Pure CSS Loading Spinners For Front-end Developers by 365 Web Resources ([List](https://365webresources.com/10-best-pure-css-loading-spinners-front-end-developers/))
 - Reddit Community Challenge: Design a CSS Spinner ([List](https://www.reddit.com/r/web_design/comments/2dwj5p/community_challenge_design_a_css_spinner/))
+
+
+## Contribute
+
+Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+
 
 ## License
 
