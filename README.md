@@ -39,7 +39,7 @@
 
 ## Single-element CSS
 
-- CSS Spinners by John Long ([Demo](http://www.css-spinners.com/)) ([Source](https://github.com/jlong/css-spinners))
+- CSS Spinners by John Long ([Source](https://github.com/jlong/css-spinners))
 - Loaders Kit by Viduthalai Mani ([Demo](http://cssdeck.com/labs/loaderskit))
 - Single Element CSS Spinners by Luke Haas ([Demo](http://projects.lukehaas.me/css-loaders/)) ([Source](https://github.com/lukehaas/css-loaders))
 - CSS Loading Spinners by Harold Soto ([Demo & Source](http://codepen.io/bernethe/pen/dorozd))
