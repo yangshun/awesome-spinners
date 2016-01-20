@@ -29,7 +29,7 @@
 - [ArtWorx] xLoader by Anas Tawfeek ([Demo](http://anastawfeek.github.io/ArtWorx-xLoader/)) ([Source](https://github.com/AnasTawfeek/ArtWorx-xLoader))
 - Halogen (React spinner library) by Yuan Yan ([Demo](http://madscript.com/halogen/)) ([Source](https://github.com/yuanyan/halogen))
 - Loaders.css by Connor Atherton ([Demo](https://connoratherton.com/loaders)) ([Source](https://github.com/ConnorAtherton/loaders.css))
-- CSS Spinners by Oskar Gustafsson ([Demo](http://oskargustafsson.github.io/CSS-spinners)) ([Source](https://github.com/oskargustafsson/CSS-spinners)) 
+- CSS Spinners by Oskar Gustafsson ([Demo](http://oskargustafsson.github.io/CSS-spinners/)) ([Source](https://github.com/oskargustafsson/CSS-spinners))
 - Less Loaders by JesGraPa ([Demo + Source](http://codepen.io/JesGraPa/pen/Hyaiw))
 - CSS cubic loader by Lokesh Suthat ([Demo + Source](http://codepen.io/magnus16/pen/rbEju))
 - Wavy Loading Animations by Kyle Brumm ([Demo + Source](http://codepen.io/kjbrum/pen/BraCg))
@@ -67,7 +67,7 @@
 
 - Loaders and Spinners by Tim Holman ([Demo](http://codepen.io/collection/HtAne/))
 - Colorful Square Spinner by Tim Holman ([Demo](http://codepen.io/tholman/pen/mqhJb))
- 
+
 ## Canvas
 
 - Canvas Sparkly Circle Loader by Jack Rugile ([Demo](http://codepen.io/jackrugile/pen/JAKbg))
@@ -92,6 +92,6 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 ## License
 
-[![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
+[![Creative Commons License](https://licensebuttons.net/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
