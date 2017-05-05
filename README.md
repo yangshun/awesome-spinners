@@ -33,7 +33,7 @@
 - CSS cubic loader by Lokesh Suthat ([Demo + Source](http://codepen.io/magnus16/pen/rbEju))
 - Wavy Loading Animations by Kyle Brumm ([Demo + Source](http://codepen.io/kjbrum/pen/BraCg))
 - Equalizes the loader by Caohim ([Demo + Source](http://codepen.io/caohim/pen/tseIj))
-- Ouroboros Spinner by Tom Genoni ([Demo](http://www.atomeye.com/sass-css-spinner.html)) ([Source](https://github.com/tomgenoni/ouroboros))
+- Ouroboros Spinner by Tom Genoni ([Demo](http://www.atomeye.com/writing/ouroboros.html)) ([Source](https://github.com/tomgenoni/ouroboros))
 
 ## Single-element CSS
 
@@ -69,7 +69,7 @@
 ## Canvas
 
 - Canvas Sparkly Circle Loader by Jack Rugile ([Demo](http://codepen.io/jackrugile/pen/JAKbg))
-- Sonic.js by James Padolsey ([Demo](https://j11y.io/p/Sonic/repo/demo/demo.html)) ([Source](https://j11y.io/p/Sonic/repo/demo/demo.html ))
+- Sonic.js by James Padolsey ([Demo](http://padolsey.github.io/sonic-creator/#default)) ([Source](https://github.com/padolsey/sonic.js))
 
 ## Build Your Own Spinner
 
