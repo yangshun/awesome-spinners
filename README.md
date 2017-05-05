@@ -35,7 +35,6 @@
 - Wavy Loading Animations by Kyle Brumm ([Demo + Source](http://codepen.io/kjbrum/pen/BraCg))
 - Equalizes the loader by Caohim ([Demo + Source](http://codepen.io/caohim/pen/tseIj))
 - Ouroboros Spinner by Tom Genoni ([Demo](http://atomeye.com/sass-css-spinner.html)) ([Source](https://github.com/tomgenoni/ouroboros))
-- CodePen Collecter #2 by Ilya Pestov ([Demo + Source](http://ipestov.com/codepen-collector-2/))
 
 ## Single-element CSS
 
