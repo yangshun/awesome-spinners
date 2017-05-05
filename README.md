@@ -24,8 +24,7 @@
   - Three Dimensional ([Demo + Source](http://cssload.net/en/3d-loaders))
   - Animated Text ([Demo + Source](http://cssload.net/en/animated-text))
   - Misc - some are really cool! ([Demo + Source](http://cssload.net/en/miscellaneous))
-- CSS Only Loaders ([Demo](http://blog.pexels.com/css-only-loaders/))
-- Pure CSS3 Loading by 大板栗 ([Source](https://github.com/JustClear/pure-css3-loading))
+- CSS Only Loaders ([Demo](https://www.pexels.com/blog/css-only-loaders/))
 - [ArtWorx] xLoader by Anas Tawfeek ([Demo](http://anastawfeek.github.io/ArtWorx-xLoader/)) ([Source](https://github.com/AnasTawfeek/ArtWorx-xLoader))
 - Halogen (React spinner library) by Yuan Yan ([Demo](http://madscript.com/halogen/)) ([Source](https://github.com/yuanyan/halogen))
 - Loaders.css by Connor Atherton ([Demo](https://connoratherton.com/loaders)) ([Source](https://github.com/ConnorAtherton/loaders.css))
@@ -34,13 +33,13 @@
 - CSS cubic loader by Lokesh Suthat ([Demo + Source](http://codepen.io/magnus16/pen/rbEju))
 - Wavy Loading Animations by Kyle Brumm ([Demo + Source](http://codepen.io/kjbrum/pen/BraCg))
 - Equalizes the loader by Caohim ([Demo + Source](http://codepen.io/caohim/pen/tseIj))
-- Ouroboros Spinner by Tom Genoni ([Demo](http://atomeye.com/sass-css-spinner.html)) ([Source](https://github.com/tomgenoni/ouroboros))
+- Ouroboros Spinner by Tom Genoni ([Demo](http://www.atomeye.com/sass-css-spinner.html)) ([Source](https://github.com/tomgenoni/ouroboros))
 
 ## Single-element CSS
 
 - CSS Spinners by John Long ([Source](https://github.com/jlong/css-spinners))
 - Loaders Kit by Viduthalai Mani ([Demo](http://cssdeck.com/labs/loaderskit))
-- Single Element CSS Spinners by Luke Haas ([Demo](http://projects.lukehaas.me/css-loaders/)) ([Source](https://github.com/lukehaas/css-loaders))
+- Single Element CSS Spinners by Luke Haas ([Demo](https://projects.lukehaas.me/css-loaders/)) ([Source](https://github.com/lukehaas/css-loaders))
 - CSS Loading Spinners by Harold Soto ([Demo & Source](http://codepen.io/bernethe/pen/dorozd))
 - Simple Spinner by Vineeth.TR ([Demo & Source](http://codepen.io/vineethtr/pen/GJpxoQ))
 - Circular CSS Spinners by zeesx ([Demo & Source](http://codepen.io/zessx/pen/RNPKKK))
@@ -49,7 +48,7 @@
 - Motion Blur Loader by Alex Bergin ([Demo & Source](http://codepen.io/jonmilner/pen/hDHuo))
 
 ## Zero-element CSS
-- Zero Element Loading Animations by Mike Riethmuller ([Demo + Source](http://madebymike.com.au/writing/zero-element-loading-animations/))
+- Zero Element Loading Animations by Mike Riethmuller ([Demo + Source](https://madebymike.com.au/writing/zero-element-loading-animations/))
 
 ## SVG
 
@@ -70,13 +69,13 @@
 ## Canvas
 
 - Canvas Sparkly Circle Loader by Jack Rugile ([Demo](http://codepen.io/jackrugile/pen/JAKbg))
-- Sonic.js by James Padolsey ([Demo](http://james.padolsey.com/p/Sonic/repo/demo/demo.html)) ([Source](http://james.padolsey.com/p/Sonic/repo/demo/demo.html))
+- Sonic.js by James Padolsey ([Demo](https://j11y.io/p/Sonic/repo/demo/demo.html)) ([Source](https://j11y.io/p/Sonic/repo/demo/demo.html ))
 
 ## Build Your Own Spinner
 
-- Loading.io ([Demo](http://loading.io/))
+- Loading.io ([Demo](https://loading.io/))
 - Spin Cycle - CSS-powered spinner from any inline SVG by Chris Hart ([Demo + Source](http://codepen.io/personable/pen/jPMXPv))
-- Spin.js by Felix Gnass ([Demo](http://fgnass.github.io/spin.js/)) ([Source](https://github.com/fgnass/spin.js))
+- Spin.js by Felix Gnass ([Demo](http://spin.js.org/)) ([Source](https://github.com/fgnass/spin.js))
 
 ## Other Collections
 
@@ -91,6 +90,6 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 ## License
 
-[![Creative Commons License](https://licensebuttons.net/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
+[![Creative Commons License](https://licensebuttons.net/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
 
-This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
