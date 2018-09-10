@@ -26,7 +26,7 @@
   - Misc - some are really cool! ([Demo + Source](http://cssload.net/en/miscellaneous))
 - CSS Only Loaders ([Demo](https://www.pexels.com/blog/css-only-loaders/))
 - [ArtWorx] xLoader by Anas Tawfeek ([Demo](http://anastawfeek.github.io/ArtWorx-xLoader/)) ([Source](https://github.com/AnasTawfeek/ArtWorx-xLoader))
-- Halogen (React spinner library) by Yuan Yan ([Demo](http://madscript.com/halogen/)) ([Source](https://github.com/yuanyan/halogen))
+- Halogen (React spinner library) by Yuan Yan ([Demo](http://yuanyan.github.io/halogen/)) ([Source](https://github.com/yuanyan/halogen))
 - Loaders.css by Connor Atherton ([Demo](https://connoratherton.com/loaders)) ([Source](https://github.com/ConnorAtherton/loaders.css))
 - CSS Spinners by Oskar Gustafsson ([Demo](http://oskargustafsson.github.io/CSS-spinners/)) ([Source](https://github.com/oskargustafsson/CSS-spinners))
 - Less Loaders by JesGraPa ([Demo + Source](https://codepen.io/JesGraPa/pen/Hyaiw))
