@@ -53,6 +53,7 @@
 ## SVG
 
 - SVG-Loaders by Sam Hambert ([Demo](http://samherbert.net/svg-loaders/)) ([Source](https://github.com/SamHerbert/SVG-Loaders))
+- svg-loaders-react (React adaptation of SVG-Loaders) by Adam Wanninger ([Source](https://github.com/ajwann/svg-loaders-react))
 - Tumblr Style Cog Spinners by Pasquale Vitiello ([Demo](http://pasqualevitiello.github.io/Tumblr-Style-Cog-Spinners/)) ([Source](https://github.com/pasqualevitiello/Tumblr-Style-Cog-Spinners/))
 - SVG Loader Animation by Nikhil Krishnan ([Demo + Source](https://codepen.io/nikhil8krishnan/pen/rVoXJa))
 - Animated Spinners by Ionic ([Demo + Source](https://codepen.io/ionic/pen/GgwVON))
