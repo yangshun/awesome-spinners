@@ -38,6 +38,7 @@
 ## Single-element CSS
 
 - CSS Spinners by John Long ([Source](https://github.com/jlong/css-spinners))
+- css-spinners-react (React adaptation of CSS Spinners by John Long) by Adam Wanninger ([Source](https://github.com/ajwann/css-spinners-react))
 - Loaders Kit by Viduthalai Mani ([Demo](http://cssdeck.com/labs/loaderskit))
 - Single Element CSS Spinners by Luke Haas ([Demo](https://projects.lukehaas.me/css-loaders/)) ([Source](https://github.com/lukehaas/css-loaders))
 - CSS Loading Spinners by Harold Soto ([Demo & Source](https://codepen.io/bernethe/pen/dorozd))
