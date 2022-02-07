@@ -34,6 +34,7 @@
 - Wavy Loading Animations by Kyle Brumm ([Demo + Source](https://codepen.io/kjbrum/pen/BraCg))
 - Equalizes the loader by Caohim ([Demo + Source](https://codepen.io/caohim/pen/tseIj))
 - Ouroboros Spinner by Tom Genoni ([Demo](http://www.atomeye.com/writing/ouroboros.html)) ([Source](https://github.com/tomgenoni/ouroboros))
+- React Activity Indicators by Luke Vella ([Demo](https://react-activity.lukevella.com)) ([Source](https://github.com/lukevella/react-activity))
 
 ## Single-element CSS
 
